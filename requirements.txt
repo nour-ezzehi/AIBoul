@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+psycopg2-binary
+pgvector
+sentence-transformers
+httpx
+python-dotenv
+pydantic
+streamlit
+requests
